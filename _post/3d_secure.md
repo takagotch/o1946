@@ -1,7 +1,4 @@
-###
-
-
-
+### stripe 3d secure
 
 ```
 <script src="https://js.stripe.com/v3/"></script>
@@ -71,7 +68,7 @@ $paymentIntent->capture();
 ```
 ### https://qiita.com/yukidaru/items/c99185d89f7eb96921cf
 
-
+---
 
 ```
 ```
